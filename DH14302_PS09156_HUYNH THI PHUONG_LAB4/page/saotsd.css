@@ -1,0 +1,10 @@
+em.doan1, .doan2, .doan3{ font-variant:small-caps;
+			font-size:20px;
+			word-spacing:2px;
+			letter-spacing:2px;
+			line-height:25px;}
+
+h2{color:white;
+	text-shadow: 0px 0px 5px red;}
+body{text-align: center}
+
